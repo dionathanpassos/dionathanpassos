@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @dionathanpassos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Dionathan Passos - #OpenToWork
 
-<!---
-dionathanpassos/dionathanpassos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Desenvolvedor backend focado em Java, Spring Boot e aplicações web escaláveis.
+
+Atualmente desenvolvendo projetos reais envolvendo:
+- APIs REST
+- Sistemas financeiros
+- Arquitetura SaaS
+- Autenticação com JWT
+- Banco de dados SQL
+- Sistemas multi-tenant
